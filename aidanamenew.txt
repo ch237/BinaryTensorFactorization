@@ -1,0 +1,2370 @@
+1:Aballay, Alejandro
+2:Abdelmalek, Manal F.
+3:Choi, Steven Sok
+4:Diehl, Anna Mae
+5:Guy, Cynthia Dianne
+6:Michelotti, Gregory Alexander
+7:Moylan, Cynthia Ann
+8:Chen, Wei
+9:Moser, Barry Kurt
+10:Nightingale, Kathryn Radabaugh
+11:Palmeri, Mark L.
+12:Pang, Herbert
+13:Cardona, Diana Marcella
+14:McCall, Shannon Jones
+15:Smith, Alastair Douglas
+16:Torquati, Alfonso
+17:Ashley-Koch, Allison Elizabeth
+18:Hauser, Michael Arthur
+19:Murphy, Susan Kay
+20:Abdulkadiroglu, Atila
+21:Abernethy, Amy Pickar
+22:Shelby, Rebecca A
+23:Keefe, Francis Joseph
+24:McCrory, Douglas Charles
+25:Samsa, Gregory P.
+26:Uronis, Hope Elizabeth
+27:Morgan, Perri Anne
+28:Olsen, Maren Karine
+29:Pollak, Kathryn IIonka
+30:Strand de Oliveira, Justine
+31:Tulsky, James Aaron
+32:LeBlanc, Thomas William
+33:Herndon II, James Emmett
+34:Lyerly, Herbert Kim
+35:Cox, Christopher Ethan
+36:Kamal, Arif H
+37:Hirsch, Bradford R
+38:Seewaldt, Victoria Louise
+39:Nelson, Kelly Carter
+40:Hendrix, Cristina Cu
+41:Landerman, Lawrence Richard
+42:Ginsburg, Geoffrey Steven
+43:Blazer III, Dan German
+44:Blazer, Daniel German
+45:Mosca, Paul Joseph
+46:Taylor Jr., Donald H.
+47:Zafar, Syed Yousuf
+48:Peppercorn, Jeffrey Matthew
+49:Gradison, Margaret
+50:Flynn, Kathryn Eve
+51:Porter, Laura Streamo
+52:Weinfurt, Kevin Phillip
+53:Salama, April Kelly Scott
+54:Selim, Maria Angelica
+55:Tyler, Douglas Scott
+56:Curtis, Lesley Huntley
+57:Patz Jr., Edward F.
+58:Schulman, Kevin Alan
+59:O'Connor, Christopher Michael
+60:Rogers, Joseph G.
+61:Koenig, Harold G.
+62:Pruitt, Scott Knowles
+63:Scheri, Randall Paul
+64:Bosworth, Hayden Barry
+65:Bartlett, John Alexander
+66:Zullig, Leah L
+67:Berchuck, Andrew
+68:Havrilesky, Laura Jean
+69:Lee, Paula Sowon
+70:Secord, Angeles Alvarez
+71:Valea, Fidel Arthur
+72:Califf, Robert M.
+73:George, Daniel James
+74:Harrison, Michael Roger
+75:Somers, Tamara J.
+76:Abou-Donia, Mohamed Bahie
+77:Abraham, Dennis M
+78:Bursac, Nenad
+79:Rockman, Howard Allan
+80:Wolf, Matthew Joseph
+81:Mao, Lan
+82:Marchuk, Douglas Alan
+83:Abraham, Soman Ninan
+84:Staats, Herman Ford
+85:Foster, William Michael
+86:Sempowski, Gregory David
+87:Hollingsworth II, John William
+88:Stripp, Barry Raymond
+89:Leong, Kam
+90:Kraft, Monica
+91:Ledford, Julie
+92:Lugogo, Njira Lucia
+93:Hale, Laura Pope
+94:Karhausen, Jorn
+95:Ma, Qing
+96:Gunn, Michael Dee
+97:Hartwig, Matthew
+98:Lin, Shu Shiuh-Shi
+99:Parker, William
+100:Acheson, Shawn K.
+101:Beckham, Jean Crowell
+102:Calhoun, Patrick Shields
+103:Kuhn, Cynthia Moreton
+104:Swartzwelder, Harry Scott
+105:Wilson Jr., Wilkie Andrew
+106:Dedert, Eric
+107:Moore, Scott Daniel
+108:Fleming, Rebekah
+109:Gierisch, Jennifer M.
+110:Levin, Edward Daniel
+111:Rezvani, Amir H.
+112:Bennett, Ellen Ruth
+113:James, Michael Lucas
+114:Lascola, Christopher David
+115:Laskowitz, Daniel Todd
+116:Vitek, Michael P.
+117:Wang, Haichen
+118:Madison, Roger D.
+119:Klein, Rebecca Christine
+120:Achneck, Hardean
+121:Truskey, George A.
+122:Allen, Jason David
+123:Lawson, Jeffrey Harold
+124:Milano, Carmelo Alessio
+125:Reichert, William M.
+126:Adair, Bill
+127:Adam, Soheir Saeed
+128:Ortel, Thomas Lee
+129:Williams Jr., John Wiley
+130:Adams Jr., Samuel Bruce
+131:DeOrio, James Keith
+132:Easley, Mark Erik
+133:Nunley II, James Albert
+134:Stinnett, Sandra Sue
+135:Setton, Lori A.
+136:Queen, Robin Marie
+137:Bolognesi, Michael Paul
+138:Toth, Alison Patricia
+139:Kraus, Virginia Byers
+140:Schmitt, Daniel Oliver
+141:Parekh, Selene Gunvant
+142:Butler, Robert John
+143:Adams, David John
+144:Driscoll, Timothy Alan
+145:Nixon, Andrew Benjamin
+146:Adams, Martha Bennett
+147:Grambow, Steven C.
+148:Oddone, Eugene Zaverio
+149:Peterson, Eric David
+150:Shah, Bimal Ramesh
+151:Adamson, David Cory
+152:McLendon, Roger Edwin
+153:Hoffman, Maureane Richardson
+154:Turner, Dennis Alan
+155:Bigner, Darell Doty
+156:Gregory, Simon Gray
+157:Friedman, Allan Howard
+158:Lark, Amy Langdon
+159:Kirkpatrick, John P.
+160:Kranz, Peter George
+161:Cummings, Thomas John
+162:Adamson, Justus D
+163:Wu, Qiuwen
+164:Yin, Fang-Fang
+165:Bowsher, James E.
+166:Cai, Jing
+167:Chang, Zheng
+168:Ren, Lei
+169:Wang, Zhiheng
+170:Yoo, Sua
+171:Horton, Janet Knight
+172:Palta, Manisha
+173:Chino, Junzo Paul
+174:Craciunescu, Oana
+175:Oldham, Mark
+176:Yan, Hui
+177:Adcock, Rachel Alison
+178:LaBar, Kevin S.
+179:Huettel, Scott
+180:Mitroff, Stephen
+181:Keefe, Richard S.E.
+182:Kollins, Scott Haden
+183:Addington, Nicolas Michael
+184:Aspinwall, Paul Stephen
+185:Adelino, Manuel Neves
+186:Adibe, Obinna Ogochukwu
+187:Agarwal, Pankaj K.
+188:Yang, Jun
+189:Clark, James S.
+190:Gelfand, Alan
+191:Ahmed, Mohammad Waseem
+192:Wu, Ying
+193:Tornow, Werner
+194:Ahn, Seungkirl
+195:Lefkowitz, Robert J.
+196:Shenoy, Sudha Kaup
+197:Xiao, Kevin
+198:Oas, Terrence Gilbert
+199:Ake III, George Simpson
+200:Briggs-King, Ernestine Cabady
+201:Fairbank, John A.
+202:Gerrity, Ellen Terese
+203:Amaya-Jackson, Lisa M.
+204:Murphy, Robert A.
+205:Alam, S. Munir
+206:Denny, Thomas Norton
+207:Haynes, Barton Ford
+208:Kelsoe, Garnett H.
+209:Liao, Hua-Xin
+210:McClain, Micah Thomas
+211:Moody, Michael Anthony
+212:Tomaras, Georgia Doris
+213:Vandergrift, Nathan A.
+214:Walter Jr., Emmanuel Benjamin
+215:Whitesides, John Franklin
+216:Woods, Christopher Wildrick
+217:Yu, Jae-Sung
+218:Montefiori, David Charles
+219:Shen, Xiaoying
+220:Ferrari, Guido
+221:Bonsignori, Mattia
+222:Verkoczy, Laurent Karl
+223:Gao, Feng
+224:Permar, Sallie Robey
+225:Zauscher, Stefan
+226:Spicer, Leonard D.
+227:Erickson, Harold Paul
+228:Ohashi, Tomoo
+229:LaBranche, Celia Crane
+230:Donald, Bruce Randall
+231:Alberts, Susan C.
+232:Morris, William F.
+233:Pusey, Anne
+234:Tung, Jenny
+235:Wray, Gregory Allan
+236:Mukherjee, Shayan
+237:Albertson, John D.
+238:Katul, Gabriel G.
+239:Marani, Marco
+240:Albright, Elizabeth A
+241:Alexander, Barbara Dudley
+242:Perfect, John Robert
+243:Reller, Lyman Barth
+244:Schell, Wiley Alexander
+245:Johnson, Melissa DePaoli
+246:Smith, Phillip Brian
+247:Zaas, Aimee Kirsch
+248:Benjamin Jr., Daniel Kelly
+249:Drew, Richard Howard
+250:Costa, Sylvia Fernandes de Castro
+251:Howell, David Noble
+252:Miller, Sara Elizabeth
+253:Smith, Stephen Richard
+254:Horan, Jennifer
+255:Alexander, John Hunter Peel
+256:Becker, Richard Clinton
+257:Povsic, Thomas Joseph
+258:Lopes, Renato Delascio
+259:Granger, Christopher Bull
+260:Rao, Sunil Vadlakonda
+261:Ohman, Erik Magnus
+262:Piccini Sr., Jonathan Paul
+263:Hasselblad, Victor
+264:Levy, Jerrold Henry
+265:Smith, Peter Kent
+266:Newby, Laura Kristin
+267:Krucoff, Mitchell Wolfe
+268:Mathew, Joseph P.
+269:Newman, Mark Franklin
+270:Podgoreanu, Mihai V.
+271:Al-Khalidi, Hussein Rashid
+272:Green, Jennifer Brigitte
+273:Thomas, Laine Elliott
+274:Glower Jr., Donald D.
+275:Wang, Andrew
+276:Al-Khatib, Sana Mustapha
+277:Patel, Manesh Raman
+278:Brennan, J. Matthew
+279:O'Brien, Sean Michael
+280:Alexander, Karen Patton
+281:Roe, Matthew Todd
+282:Wang, Yu-Ping
+283:Atwater, Brett David
+284:Bahnson, Tristram Dan
+285:Daubert, James Patrick
+286:Harrison, Robert William
+287:Jones, William Schuyler
+288:Daneshmand, Mani Ali
+289:Velazquez, Eric Jose
+290:Tricoci, Pierluigi
+291:Anstrom, Kevin J.
+292:Chow, Shein-Chung
+293:Lee, Kerry L.
+294:Pencina, Michael J
+295:Mathews, Robin
+296:Allen LaPointe, Nancy Marie
+297:Melloni, Chiara
+298:Bettger, Janet Prvu
+299:Coeytaux, Remy Rene
+300:Dolor, Rowena Joy
+301:Graffagnino, Carmelo
+302:Holsinger, Tracey C.
+303:Kong, David Franklin
+304:Kramer, Judith Mae
+305:Xian, Ying
+306:Al-Hegelan, Mashael
+307:Tighe, Robert Matthew
+308:Cheifetz, Ira Marc
+309:Ozment, Caroline Pinson
+310:Rehder, Kyle Jason
+311:Turner, David Ashley
+312:Huang, Yuh-Chin Tony
+313:MacIntyre Jr., Neil Ross
+314:Ali-Osman, Francis
+315:Ilyasova, Dora
+316:Paschen, Wulf
+317:Pearlstein, Robert D.
+318:Yang, Wei
+319:Dewhirst, Mark Wesley
+320:Hernandez, Adrian Felipe
+321:Thomas, Kevin Lindsey
+322:Jones, Robert H.
+323:Mark, Daniel Benjamin
+324:Schmidler, Gillian Denise  Sanders
+325:Kim, Raymond J.
+326:Douglas, Pamela Susan
+327:Kosinski, Andrzej Stanislaw
+328:Eapen, Zubin John
+329:Hranitzky, Patrick M.
+330:Koontz, Jason
+331:Shah, Svati Hasmukh
+332:Lokhnygina, Yuliya Vladimirovna
+333:Jackson, Kevin Patrick
+334:Hegland, Donald Dale
+335:Anderson, Monique
+336:Chatterjee, Ranee
+337:Dupre, Matthew Egan
+338:Pun, Patrick Hank
+339:Eisenstein, Eric Leo
+340:Johnson, Frederick Salvatore
+341:Allen, Andrew Scott
+342:Goldstein, David Benjamin
+343:Heinzen-Cox, Erin Lynne
+344:Need, Anna Christina
+345:Shashi, Vandana
+346:Fowler Jr., Vance Garrison
+347:Allen, Barry W.
+348:Piantadosi, Claude Anthony
+349:Kraus, William Erle
+350:Dahl, Jeremy
+351:Trahey, Gregg E.
+352:Li, Yi-Ju
+353:Lien, Lillian Frances
+354:Lin, Pao-Hwa
+355:Svetkey, Laura Pat
+356:Blackwell, Kimberly Lynn
+357:Kimmick, Gretchen Genevieve
+358:Marcom, Paul Kelly
+359:Turkington, Timothy Garvey
+360:Pieper, Carl F.
+361:Allen, Kelli Dominick
+362:Coffman, Cynthia Jan
+363:Datta, Santanu Kumar
+364:Sperber, Nina
+365:Strauss, Jennifer Leigh
+366:Yancy Jr., William Samuel
+367:Edelman, David Edward
+368:Hall, Katherine Shepherd
+369:Hoenig, Helen Marie
+370:Maciejewski, Matthew Leonard
+371:Voils, Corrine Ione
+372:Goode, Adam Payne
+373:Corsino, Leonor Adalgisa
+374:Allen, Nancy Bates
+375:St. Clair, Eugene William
+376:Clowse, Megan Elizabeth Bowles
+377:Allen, Terrence Kelburn
+378:Habib, Ashraf Samir
+379:Small, Maria Jacqueline
+380:Jones, Cheryl Ann
+381:Brown, Haywood Laverne
+382:Gan, Tong Joo
+383:Muir, Holly Ann
+384:Peterson-Layne, Cathleen Louise
+385:Feng, Liping
+386:Murtha, Amy Patricia
+387:Allingham, Robert Rand
+388:Challa, Pratap
+389:Herndon Jr., Leon Walker
+390:Liu, Yutao
+391:Katsanis, Nicholas
+392:Klintworth, Gordon Kenneth
+393:Bowes Rickman, Catherine
+394:Asrani, Sanjay Girdhari
+395:Klitzman, Bruce
+396:Rosdahl, Jullia Ann
+397:Chiba-Falek, Ornit
+398:Roses, Allen D.
+399:Welsh-Bohmer, Kathleen Anne
+400:Whitfield, Keith E.
+401:McKinnon, Stuart James
+402:Muir, Kelly Walton
+403:Young, Terri Lois
+404:Stamer, W Daniel
+405:Oh, Edwin
+406:Alman, Benjamin Aaron
+407:Almekinders, Louis Cornelis
+408:Alspaugh II, James Andrew
+409:Cox, Gary Matthew
+410:Stout, Jason Eric
+411:Beese, Lorena Sue
+412:Hellinga, Homme Wytzes
+413:Dietrich, Fred Samuel
+414:Altomare, Ivy Paige
+415:Blobe, Gerard Conrad
+416:Hsu, Shiao-Wen David
+417:Hurwitz, Herbert Ira
+418:Morse, Michael Aaron
+419:Sutton, Linda Marie
+420:Amaldoss, Wilfred
+421:Dodge, Kenneth A.
+422:Ambrus, Attila
+423:Ames, Warwick Aubrey
+424:Hill, Kevin Dennis
+425:Jooste, Edmund Hilton
+426:Amundsen, Cindy Louise
+427:Grill, Warren M.
+428:Webster, George David
+429:Siddiqui, Nazema Yusuf
+430:Weidner, Alison Catherine
+431:Visco, Anthony Gabriele
+432:Kawasaki, Amie
+433:Krystal, Andrew Darrell
+434:Preud' homme, Xavier A.
+435:Ananat, Elizabeth Oltmans
+436:Gassman-Pines, Anna
+437:Gibson-Davis, Christina M.
+438:Anderson, Deverick John
+439:Cunningham, Coleen Kathryn
+440:Hendershot, Edward Ferguson
+441:Sangvai, Devdutta Gangadhar
+442:Tsalik, Ephraim
+443:Chen, Luke Francis
+444:Sexton, Daniel John
+445:Wolfe, Cameron Robert
+446:Schmader, Kenneth Edwin
+447:Davis Jr., Robert Duane
+448:Onaitis, Mark William
+449:Snyder, Laurie Dee
+450:Moehring, Rebekah
+451:Ming, David Yung
+452:Vaslef, Steven Nicholas
+453:Harrison, John Kevin
+454:Joyce, Maria Josephine
+455:Anderson, Kristin Ann
+456:Hirschey, Matthew
+457:Newgard, Christopher Bang
+458:Stevens, Robert David
+459:Anderson, Ruth A.
+460:Bailey Jr., Donald Etheridge
+461:Docherty, Sharron Lee
+462:McConnell, Eleanor Schildwachter
+463:Short, Nancy Munn
+464:Corazzini, Kirsten N
+465:Colon-Emeric, Cathleen Sellner
+466:Granger, Bradi Bartrug
+467:Galanos, Anthony Nicholas
+468:Day, Lisa J
+469:Pinheiro, Sandro Oliveira
+470:Steinhauser, Karen E.
+471:Andolsek, Kathryn Marijoan
+472:Frush, Karen Sue Hamilton
+473:Griffith, Brian Carey
+474:Stephany, Alyssa Marie
+475:Dzau, Victor J.
+476:Murphy, Gwendolyn Curtis
+477:Nagler, Alisa
+478:Weinerth, John Louis
+479:Boggan, Joel
+480:Andrews, Nancy Catherine
+481:Angold, Adrian Christopher
+482:Copeland, William Everett
+483:Costello, Elizabeth Jane
+484:Egger, Helen Link
+485:Erkanli, Alaattin
+486:Patkar, Ashwin Anand
+487:Angrist, Misha
+488:Davis, Erica Ellen
+489:Jiang, Yong-Hui
+490:Kawamoto, Kensaku
+491:Lobach, David Franklin
+492:Olsen, Elise Arline
+493:Felker, Gary Michael
+494:Patel, Uptal Dinesh
+495:Cowper, Patricia Agnes
+496:Chu, Vivian Hou
+497:Corey, Gordon Ralph
+498:Crowley, Anna Lisa Chamis
+499:Holland, Thomas Lawrence
+500:Samad, Zainab
+501:Morrison, Lake Daniel
+502:Sundy, John Sargent
+503:Reed, Shelby Derene
+504:Anthony, Kelly Kosobucki
+505:Schanberg, Laura Eve
+506:Bonner, Melanie Jean
+507:Anton, James J.
+508:Lewis, Tracy R.
+509:Appelbaum, Lawrence Gregory
+510:Woldorff, Marty G.
+511:Applegate, Katherine Lynn
+512:Grant, John Palmer
+513:Friedman, Kelli E.
+514:Portenier, Dana Dale
+515:Aquino, Wilkins
+516:Arcasoy, Murat Osman
+517:Boswell, Elizabeth Louise
+518:Wang, Endi
+519:Arce, Ayana T
+520:Oh, Seog
+521:Kotwal, Ashutosh V.
+522:Goshaw, Alfred T.
+523:Kruse, Mark Charles
+524:Archer, Gerald Edward
+525:Desjardins, Annick
+526:Friedman, Henry Seth
+527:Sampson, John Howard
+528:Nair, Smita Kesavan
+529:Reap, Elizabeth
+530:Tedder, Thomas Fletcher
+531:Dannull, Jens O.
+532:Kuan, Chien-Tsun
+533:Weinhold, Kent James
+534:Arcidiacono, Peter S.
+535:Khan, Shakeeb
+536:Vigdor, Jacob L.
+537:Hotz, V. Joseph
+538:Arepally, Gowthami Morey
+539:Wiesner, Mark
+540:Welsby, Ian James
+541:Palmer Jr., Scott Michael
+542:Ariely, Dan
+543:Luce, Mary Frances
+544:Cohen, Harvey Jay
+545:Whitson, Heather Elizabeth
+546:Huber, Joel C.
+547:Shah, Ankoor
+548:Arlotto, Alessandro
+549:Armaleo, Daniele
+550:Lutzoni, Francois M.
+551:Armstrong, Andrew John
+552:Garcia-Blanco, Mariano Agustin
+553:Madden, John Francis
+554:Freedland, Stephen Jay
+555:Koontz, Bridget Fey
+556:Lee, William Robert
+557:Moul, Judd Wendell
+558:Polascik, Thomas James
+559:Robertson, Cary Nobles
+560:Halabi, Susan
+561:Zaas, David William
+562:Jaffe, Tracy Anne
+563:Armstrong, Brenda Estelle
+564:Armstrong, Michael Brannon
+565:Lavau, Catherine Praxede
+566:Wechsler, Daniel Steven Gary
+567:Armstrong, Sarah Commisso
+568:Silberberg, Mina Ruth
+569:Kemper, Alex Randall
+570:Ostbye, Truls
+571:Mangarelli, Caren
+572:Aronson, Solomon
+573:Babyak, Michael Alan
+574:Blumenthal, James Alan
+575:D'Amico, Thomas Anthony
+576:Del Rio, Jose Mauricio
+577:Gaca, Jeffrey Giles
+578:Harpole Jr., David Harold
+579:Hughes IV, George Charles
+580:Lodge, Andrew James
+581:Nicoara, Alina
+582:Sketch Jr., Michael Hugh
+583:Stafford-Smith, Mark
+584:Strittmatter, Warren James
+585:Swaminathan, Madhav
+586:Tong, Betty Caroline
+587:Fontes, Manuel Lopes
+588:Cherry, Anne
+589:Arora, Ashish
+590:Belenzon, Sharon
+591:Arshavsky, Vadim Yurjevich
+592:Farsiu, Sina
+593:Caron, Marc G.
+594:Rebrik, Tatiana I
+595:Izatt, Joseph A.
+596:Aryal, Shambhu
+597:Asher, Steven R.
+598:Ashley, Patricia Lynn
+599:Bidegain, Margarita
+600:Cotten, Charles Michael
+601:Krishnan, K. Ranga Rama
+602:MacFall, James R.
+603:Steffens, David Carl
+604:Brummett, Beverly H.
+605:Siegler, Ilene C.
+606:Williams Jr., Redford B.
+607:Miranda, Marie Lynn
+608:Swamy, Geeta Krishna
+609:De Castro, Laura Martina
+610:Telen, Marilyn Jo
+611:Beyer, John Leslie
+612:Kuchibhatla, Maragatha
+613:Lee, Tih-Shih Warren
+614:Fuemmeler, Bernard Frank
+615:McClernon, Francis Joseph
+616:Wang, Lihong
+617:Payne, Martha Elizabeth
+618:Hoyle, Rick
+619:Richman, Laura Smart
+620:Royal, Charmaine D. M.
+621:Dunson, David B.
+622:Enterline, David Scott
+623:Fuchs, Herbert Edgar
+624:Hauser, Elizabeth Rebecca
+625:Ashton, Kathleen
+626:Oermann, Marilyn Haag
+627:Ashton, Robert H.
+628:Plesser, M. Ronen
+629:Bhatti, M. Tariq
+630:El-Dairi, Mays Antoine
+631:Freedman, Sharon Fridovich
+632:Gupta, Preeya Kshettry
+633:Wallace, David Keith
+634:Thakur, Mugdha Ekanath
+635:Astrachan, Owen L.
+636:Attarian, David Edward
+637:McKee, Daphne Connelly
+638:Kelley, Scott Streater
+639:Wellman, Samuel S.
+640:Grant, Stuart Alan
+641:Green, Cynthia Lea
+642:Attix, Deborah Koltai
+643:Smith, Patrick J
+644:Radtke, Rodney Allan
+645:Hayden, Kathleen M.
+646:Atwater, Amber Reck
+647:Hall III, Russell P.
+648:Kim, Han Woong
+649:Auten Jr., Richard Lambert
+650:Sheng, Huaxin
+651:Warner, David Samuel
+652:Foster, Matthew Wolf
+653:Marshall III, Harvey Edwin
+654:McMahon, Timothy Joseph
+655:Bilbo, Staci D.
+656:Babu, Shivnath
+657:Munagala, Kamesh
+658:Sherwood, Andrew
+659:Doraiswamy, Pudugramam Murali
+660:Hoffman, Benson Mark
+661:Bowers, Margaret Therese
+662:Watkins, Lana L.
+663:Georgiades, Anastasia Zoe Elsa
+664:Surwit, Richard Samuel
+665:Caldwell, David S.
+666:Guilak, Farshid
+667:Rice, John Russell
+668:Martinu, Tereza
+669:Jiang, Wei
+670:Schocken, Douglas David
+671:Welty-Wolf, Karen Elizabeth
+672:Browndyke, Jeffrey Nicholas
+673:Burke, James Robert
+674:Bachelder, Robin Elizabeth
+675:Geradts, Joseph
+676:Osada, Takuya
+677:Pizzo, Salvatore Vincent
+678:Badea, Alexandra
+679:Johnson, G. Allan
+680:Driehuys, Bastiaan
+681:Badea, Cristian Tudorel
+682:Hedlund, Laurence William
+683:Zhang, Xiaofeng
+684:Kirsch, David Guy
+685:Therien, Michael J.
+686:Das, Shiva Kumar
+687:Bae, Jonathan Gregory
+688:Shah, Nirmish Ramesh
+689:Bagley, Carlos Antonio
+690:Haglund, Michael Martin
+691:Isaacs, Robert Eric
+692:Gottfried, Oren N
+693:Husain, Aatif Mairaj
+694:Brown, Christopher Robert
+695:Grossi, Peter Michael
+696:Richardson, William James
+697:Lad, Shivanand
+698:Bagnat, Michel
+699:Wolf, Patrick D.
+700:Judd, Robert Martin
+701:Klem, Igor
+702:Gilliss, Catherine Lynch
+703:Champagne, Mary Thomson
+704:Rice, Henry Elliot
+705:Bailey-Cooner, Heatherlee
+706:Bain, James R.
+707:Huffman, Kim Marie
+708:Slentz, Cris Allan
+709:Morey, Miriam C.
+710:Taylor, Gregory Alan
+711:Batch, Bryan Courtney
+712:Patel, Mahesh
+713:Koves, Timothy Robert
+714:Muoio, Deborah Marie
+715:Freemark, Michael Scott
+716:Baker, Jay Alan
+717:Lo, Joseph Yuan-Chieh
+718:Ghate, Sujata Vijay
+719:Kim, Connie Eunjung
+720:Samei, Ehsan
+721:Soo, Mary Scott Campbell
+722:Walsh, Ruth
+723:Soher, Brian Joseph
+724:Bashir, Mustafa Shadi Rifaat
+725:Johnson, Karen Schwenk
+726:Barnhart, Huiman Xie
+727:Mazurowski, Maciej A
+728:Yoon, Sora Christina
+729:Hwang, Eun-Sil Shelley
+730:Lyman, Gary Herbert
+731:Baker, Paul A.
+732:Li, Wenhong
+733:Balcells, Laia
+734:Baldwin, Steven W.
+735:Bales, Connie Watkins
+736:Nelson, Rendon C.
+737:Bali, Deeksha Sarihyan
+738:Chen, Yuan-Tsong
+739:Kishnani, Priya Sunil
+740:Koeberl, Dwight D.
+741:Sun, Baodong
+742:Millington, David Stuart
+743:Rehder, Rebeccah Catherine
+744:Case, Laura Elizabeth
+745:Young, Sarah Phyllis
+746:Buckley, Anne Frances
+747:Smith, Edward Clinton
+748:Balleisen, Edward J.
+749:Balseiro, Santiago Roman
+750:Bandarenko III, Nicholas
+751:Bennett-Guerrero, Elliott
+752:Goldberg, Ronald Norman
+753:Tanaka, David Timothy H.
+754:Banks, David L.
+755:Bansal, Ravi
+756:Barak, Lawrence Simeon
+757:Mook Jr., Robert Anthony
+758:Hobeika, Amy Claudine
+759:Spector, Neil Lee
+760:Baran, Dominika M
+761:Baranger, Harold U.
+762:Gauthier, Daniel J.
+763:Finkelstein, Gleb
+764:Barbeau, Phillip Spencer
+765:Barbeito, Atilio
+766:Mark, Jonathan Ball
+767:Schroeder, Rebecca Ann
+768:Segall, Noa
+769:Thornlow, Deirdre KIing
+770:Barboriak, Daniel P.
+771:Petry, Neil Allen
+772:Zalutsky, Michael Rod
+773:Brizel, David Manfield
+774:Yoo, David Sung-Hyun
+775:Barfield, Raymond Carlton
+776:Brandon, Debra Huffman
+777:Barkauskas, Christina Eleanor
+778:Hogan, Brigid L. M.
+779:Barker, Piers Christopher Andrew
+780:Kanter, Ronald Jay
+781:Kuller, Jeffrey Adam
+782:Campbell, Michael Jay
+783:Miller, Stephen Gary
+784:Brancazio, Leo Richard
+785:Cohen-Wolkowiez, Michael
+786:Fleming, Gregory Allan
+787:Li, Jennifer Shiunroh
+788:Kisslo, Joseph Andrew
+789:Marin, Daniele
+790:Carrico, Caroline Way Thompson
+791:Frush, Donald Paul
+792:Gaca, Ana Maria
+793:Maxfield, Charles Mason
+794:Smith, Tony Preston
+795:Zomorodi, Ali Reza
+796:Provenzale, James Michael
+797:Boll, Daniel Tobias
+798:Gupta, Rajan Tilak
+799:Ho, Lisa Mei-ling
+800:Christensen, Jared Dean
+801:Koweek, Lynne Michelle Hurwitz
+802:Leder, Richard Adam
+803:McAdams, Holman Page
+804:Barr, Roger C.
+805:Barros, Ana
+806:Ostermann, Jan
+807:Thielman, Nathan Maclyn
+808:Harmon, James Lester
+809:Goodman, Philip C.
+810:Bartz, Raquel Rae
+811:Suliman, Hagir B.
+812:Miller, Chad Michael
+813:Howle, Laurens E.
+814:Jones, Harrison N.
+815:Brennan, Todd Victor
+816:Ellis, Matthew Jay
+817:Kim, Charles Yoon
+818:Seaman, Danielle Marie
+819:Czito, Brian Gary
+820:Suhocki, Paul Vincent
+821:Eastwood, James D.
+822:Hoang, Jenny K.
+823:Bashore, Thomas Michael
+824:Kiefer, Todd Lee
+825:Gehrig, Thomas Richard
+826:Bass, Cameron R.
+827:Capehart, Bruce Pinson
+828:Myers, Barry S.
+829:Nightingale, Roger W
+830:Bass, Steffen Ashraf
+831:Mueller, Berndt
+832:Wolpert, Robert L.
+833:Basurto, Xavier
+834:Bennett, Gary G.
+835:Edwards, Christopher Levon
+836:Feinglos, Mark Neil
+837:Spratt, Susan Elizabeth
+838:Lakey, Wanda Cook
+839:Hammond II, William Edward
+840:Richesson, Rachel L
+841:Batchelor-Aselage, Melissa Karen
+842:Batinic-Haberle, Ines
+843:Spasojevic, Ivan
+844:Yan, Hai
+845:Keir, Stephen Thomas
+846:Zhang, Zhiquan
+847:Devi, Gayathri R.
+848:Ramanujam, Nimmi
+849:Owzar, Kouros
+850:Baugh, Larry Ryan
+851:Sherwood, David R.
+852:Bayer, Patrick
+853:Timmins, Christopher D.
+854:Beale, J. Thomas
+855:Layton, Anita T.
+856:Bean, Sarah Muntzing
+857:Jones, Claudia Kay
+858:Bentley, Rex Colle
+859:Robboy, Stanley J.
+860:Buckley, Patrick Joseph
+861:Beaven, Anne Wood
+862:Chao, Nelson Jen An
+863:Chute, John Patrick
+864:Gasparetto, Cristina
+865:Horwitz, Mitchell Eric
+866:Lagoo, Anand Shreeram
+867:Li, Zhiguo
+868:Long, Gwynn Douglas
+869:Peterson, Bercedis Leola
+870:Rizzieri, David Alan
+871:Storms, Robert William
+872:Sullivan, Keith Michael
+873:Yang, Yiping
+874:Diehl, Louis Frederic
+875:Kelsey, Christopher Ryan
+876:Dave, Sandeep S.
+877:de Castro III, Carlos Manuel
+878:Moore, Joseph Odell
+879:Becher, Oren Josh
+880:Gromeier, Matthias
+881:Becker, Charles Maxwell
+882:Voora, Deepak
+883:Sullenger, Bruce Alan
+884:Patel, Chetan B.
+885:Chi, Jen-Tsan Ashley
+886:Dungan, Jennifer
+887:Wagner II, Henry Ryan
+888:Rubin, David C.
+889:Mitchell, John T
+890:Van Voorhees, Elizabeth E.
+891:Brancu, Mira
+892:Runnals, Jennifer J.
+893:Hertzberg, Michael Andrew
+894:Crawford, Eric F.
+895:Ulmer, Christi S
+896:Fulton, Jessica Jade
+897:Kudler, Harold Stephen
+898:Marx, Christine Elizabeth
+899:Morey, Rajendra A.
+900:Nieuwsma, Jason A
+901:Tupler, Larry A.
+902:Weiner, Richard David
+903:Bedlack, Richard Stanley
+904:Yao, Tso-Pang
+905:Modrich, Paul L.
+906:Behringer, Robert P.
+907:Bejan, Adrian
+908:Bejsovec, Amy
+909:Bellet, Jane Sanders
+910:Prose, Neil Stuart
+911:Wolfe, Sarah Ann
+912:Belloni, Alexandre
+913:Bendich, Paul L
+914:Harer, John
+915:Benfey, Philip N.
+916:Tomasi, Carlo
+917:Ohler, Uwe
+918:Mitchell-Olds, Thomas
+919:Watt, Kevin Michael
+920:Martin, Paul Langlie
+921:Steinbach, William J.
+922:Goldstein, Ricki Friedman
+923:McKinney Jr., Ross Erwin
+924:Lenfestey, Robert William
+925:Reiman Jr., Robert Ellis
+926:Bennear, Lori Snyder
+927:Smith, Martin D.
+928:Pfaff, Alexander
+929:Read, Andrew J
+930:Benner, Eric James
+931:Eroglu, Cagla
+932:Kuo, Chay Titus
+933:Liu, Chunlei
+934:Smith, Stephen William
+935:Caspi, Avshalom
+936:Moffitt, Terrie E.
+937:Proeschold-Bell, Rae Jean
+938:Bennett, George Vann
+939:Marszalek, Piotr E.
+940:Yang, Weitao
+941:Shaw, Andrew David
+942:BENSON, THEOPHILUS ADETOKUNBO
+943:Campa, Michael Joseph
+944:Gottlin, Elizabeth B.
+945:Pisetsky, David Stephen
+946:Linardic, Corinne Mary
+947:Marks, Jeffrey R.
+948:Schildkraut, Joellen Martha
+949:Iversen Jr., Edwin Severin
+950:Heine, Robert Phillips
+951:Seed, Patrick Casey
+952:Ford, Anne Cunanan
+953:Hawblitzel Yarnall, Kimberly S.
+954:Beratan, David N.
+955:Craig, Stephen Lawrence
+956:Toone, Eric John
+957:Moorman, Patricia Gripka
+958:Myers, Evan Robert
+959:Berg, Carl
+960:Berger, James O.
+961:Clyde, Merlise
+962:Bermeo, Sarah Blodgett
+963:Bernhardt, Emily Snow
+964:Doyle, Martin
+965:Wright, Justin Prouty
+966:Liu, Jie
+967:Jackson, Robert B.
+968:Oren, Ram
+969:Palmroth, Sari
+970:Di Giulio, Richard T.
+971:Vengosh, Avner
+972:Hsu-Kim, Heileen
+973:Richardson, Curtis J.
+974:Fay, John Patrick
+975:Gunsch, Claudia K.
+976:Meyer, Joel
+977:Hunt, Dana E.
+978:Bernstein, Fernando
+979:Kok, A. Gurhan
+980:Beskow, Laura Mari
+981:Holditch-Davis, Diane L.
+982:Jackson, George Lee
+983:Bettman, James R.
+984:Fitzsimons, Gavan J.
+985:Payne, John W.
+986:Ubel, Peter A
+987:Richard, Michael Jason
+988:Kaylie, David Marcus
+989:Ready, Neal Edward
+990:Mahmoud, Tamer Hamdy
+991:Gururangan, Sridharan
+992:Peters, Katherine Barnett
+993:He, Yiping
+994:Rasheed, B. K. Ahmed
+995:Vo-Dinh, Tuan
+996:Nicchitta, Christopher Vincent
+997:Black, Sherilynn
+998:Dzirasa, Kafui
+999:Szabo, Steven
+1000:Hartman, Zachary Conrad
+1001:Clary, Bryan Marshall
+1002:McCann, Richard L.
+1003:Pappas, Theodore N.
+1004:Scarborough, John Emerson
+1005:White, Rebekah Ruth
+1006:Lagoo-Deenadayalan, Sandhya Anand
+1007:Willett, Christopher G.
+1008:Zani Jr., Sabino
+1009:Strickler, John
+1010:Perez, Alexander
+1011:Wu, Li-Tzy
+1012:Burchett, Bruce Myatt
+1013:Hybels, Celia F.
+1014:Li, Ting-Kai
+1015:James, Sherman A.
+1016:Fillenbaum, Gerda G.
+1017:Mannelli, Paolo
+1018:Swartz, Marvin Stanley
+1019:Zeng, Yi
+1020:Kinghorn, Warren A.
+1021:Blazing, Michael August
+1022:Silva, Susan Gray
+1023:Varia, Indira Mahesh
+1024:Blitzblau, Rachel Catherine
+1025:Gockerman, Jon Paul
+1026:Datto, Michael Bradley
+1027:Riedel, Richard Francis
+1028:Vlahovic, Gordana
+1029:Hanks, Brent Allen
+1030:Blood-Siegfried, Jane Elizabeth
+1031:Bloomfield, Gerald
+1032:Waugh, Robert Andrew
+1033:Finkelstein, Eric Andrew
+1034:Limkakeng Jr., Alexander Tan
+1035:Lynch, Catherine Ann
+1036:Blum, Volker
+1037:Potter, Guy Glenn
+1038:Boadu, Fred K.
+1039:Bobrowski, Omer
+1040:Boehlke, Christopher Stephen
+1041:Muhlbaier, Lawrence H.
+1042:Boggess, Blake Reid
+1043:Bytomski, Jeffrey Ryszard
+1044:Miller Jr., Michael Joseph
+1045:Bollerslev, Tim
+1046:Tauchen, George E.
+1047:Orlando, Lori Ann
+1048:Urbaniak, James Randolph
+1049:Mather, Richard Charles
+1050:Moorman III, Claude Thurman
+1051:Olson, Steven Arthur
+1052:Zura, Robert Douglas
+1053:Kwatra, Madan Mohan
+1054:Moon, Richard Edward
+1055:Rivelli, Sarah K.
+1056:Young, Christopher Carlo
+1057:Marks, David Morris
+1058:Bonaventura, Celia J.
+1059:Crumbliss, Alvin L.
+1060:Bonaventura, Joseph
+1061:Criscione-Schreiber, Lisa Giorgina
+1062:Bookman, Jack
+1063:McGann, Kathleen Anne
+1064:Narayan, Aditee Pradhan
+1065:Borawski, Joseph Brian
+1066:Gerardo, Charles John
+1067:Hocker, Michael Brian
+1068:Villani, John Joseph
+1069:Bordelon, Anna Hong
+1070:Kim, Terry
+1071:Bordley, William Clayton
+1072:Borel III, Cecil Orm
+1073:Guinn, Nicole Renee
+1074:McDonagh, David Lawrence
+1075:Keifer, John Conlon
+1076:Borges-Neto, Salvador
+1077:James, Olga Gennadyevna
+1078:Fiuzat, Mona
+1079:Phillips III, Harry Rissler
+1080:Borst, Alexandra Jane
+1081:Sebastian, Siby Nil
+1082:Hulette, Christine Marie
+1083:Van Houtven, Courtney Harold
+1084:Wang, Virginia
+1085:Crowley, Matthew Janik
+1086:Peterson, Matthew John
+1087:Shaw, Ryan
+1088:Johnson, Constance Margaret
+1089:Lipkus, Isaac Marcelo
+1090:Bowlby, Lynn Anne
+1091:Trujillo, Gloria Marie
+1092:Goldstein, Karen
+1093:Rakley, Susan Merle
+1094:Pereira, Katherine Colligan
+1095:Bottiger, Brandi Anne
+1096:Boudreau, Alan E.
+1097:Boulding, William F.
+1098:Staelin, Richard
+1099:Boulware, L. Ebony
+1100:Toth, Cynthia Ann
+1101:Bowles, Dawn Elizabeth
+1102:Schroder, Jacob Niall
+1103:Kontos, Christopher Dale
+1104:Bowman, Rachel A
+1105:Boyce, Michael Scott
+1106:Boyer, Douglas Martin
+1107:Daubechies, Ingrid
+1108:Bradford, Daniel William
+1109:Kilts, Jason David
+1110:Naylor, Jennifer C.
+1111:Braxton, Loretta Elaine
+1112:Zinn, Sandra Denise
+1113:Strauman, Timothy J.
+1114:Swanson, Jeffrey W.
+1115:Bradley, Deborah Ann
+1116:Inman, Brant Allen
+1117:Bradrick, Shelton
+1118:Bradshaw, Wanda Todd
+1119:Brady, David J.
+1120:Marks, Daniel L.
+1121:Gehm, Michael
+1122:Kim, Jungsang
+1123:Schmidler, Scott C.
+1124:Willett, Rebecca
+1125:Kapadia, Anuj J
+1126:Carin, Lawrence
+1127:Smith, David R.
+1128:Liao, Xuejun
+1129:Sapiro, Guillermo
+1130:Tornai, Martin Paul
+1131:Branch, Malcolm Stanley
+1132:Jowell, Paul Simon
+1133:Liddle, Rodger Alan
+1134:Obando, Jorge Valdemar
+1135:Poleski, Martin Henry
+1136:Pabon-Ramos, Waleska Michelle
+1137:Burbridge, Rebecca Ann
+1138:Omotosho, Philip Ayodeji
+1139:Curry, John F.
+1140:Malcolm, William Ferris
+1141:Turner, Barbara Swope
+1142:Levy, Janet Anne
+1143:Hawks, Sharon Jeanette
+1144:Powell, Dorothy Lewis
+1145:Taicher, Brad Matthew
+1146:Brandon, Robert N.
+1147:McShea, Daniel W.
+1148:Brands, Hal
+1149:Brandt, Michael W.
+1150:Brannon, Elizabeth M.
+1151:Platt, Michael Louis
+1152:Drea, Christine M.
+1153:Hare, Brian
+1154:Nunn, Charles L
+1155:Brav, Alon
+1156:Bray, Hubert
+1157:Brennan, Richard Gerald
+1158:Schumacher, Maria Anne
+1159:Guan, Ziqiang
+1160:Collins, Bradley Henry
+1161:Hollenbeck, Scott Thomas
+1162:Ravindra, Kadiyala Venkata
+1163:Sudan, Debra L
+1164:Sushama, Deepak Vikraman
+1165:Huang, Xiaopei
+1166:Patel, Keyur
+1167:Bretherton, Luke Michael
+1168:Heilbron, Nicole Sara
+1169:Brigman, Brian Eugene
+1170:Erdmann, Detlev
+1171:Eward, William Curtis
+1172:Levinson, Howard
+1173:Richard, Marc Joseph
+1174:Harrelson, John Miles
+1175:Larrier, Nicole A.
+1176:Dunphy II, Frank Russell
+1177:Esclamado, Ramon Mitra
+1178:Scher, Richard Lyle
+1179:Wu, Qingrong
+1180:Cohen, Seth Morris
+1181:Fisher, Samuel Rankin
+1182:Lee, Walter T
+1183:Puscas, Liana
+1184:Witsell, David Latham
+1185:Roy Choudhury, Kingshuk
+1186:Broach, Amy Nicole
+1187:Broder, Joshua Seth
+1188:Brooke, Martin A.
+1189:Jokerst, Nan Marie
+1190:Palmer, Gregory M.
+1191:Brooks, Kelli Rachel
+1192:Shapiro, Mark Louis
+1193:Broverman, Sherryl A.
+1194:Puffer, Eve Sullivan
+1195:Meade, Christina S.
+1196:Sikkema, Kathleen J.
+1197:Watt, Melissa
+1198:Brown, April S.
+1199:Collins, Leslie M.
+1200:Fischer, Martin
+1201:Warren, Warren S.
+1202:Chen, Jun
+1203:Fitch, Robert Douglas
+1204:Owens, Thomas Andrew
+1205:Lark, Robert
+1206:Thacker, Julie K. Marosky
+1207:Brown, David B.
+1208:Smith, James E.
+1209:Chireau, Monique V.
+1210:Plassman, Brenda Lee
+1211:Petrella, Jeffrey Robert
+1212:Brownell, Kelly D.
+1213:Brudney, Charles Scott
+1214:Gagliardi, Jane Patricia
+1215:Kaddurah-Daouk, Rima Fathi
+1216:Buchanan, Ann Marie
+1217:Buchheit, Thomas Edward
+1218:Pyati, Srinivas
+1219:Van de Ven, Thomas John
+1220:Buchler, Nicolas
+1221:You, Lingchong
+1222:Crowley, Steven Daniel
+1223:Dolber, Paul Christian
+1224:Sparks, Matthew A.
+1225:Buckley, Edward George
+1226:Prakalapakorn, Sasapin Grace
+1227:Mruthyunjaya, Prithvi
+1228:Vajzovic, Lejla
+1229:Crow, Jennifer H
+1230:Buckley, Rebecca Hatcher
+1231:Sarzotti-Kelsoe, Marcella
+1232:Hershfield, Michael Steven
+1233:Roberts, Joseph Linton
+1234:Zhong, Xiaoping
+1235:Devlin, Blythe Hazlehurst
+1236:Markert, Mary Louise
+1237:Parikh, Suhag H.
+1238:Bugni, Federico
+1239:Buhr, Gwendolen Toni
+1240:White, Heidi Kay
+1241:Heflin, Mitchell Tod
+1242:Yanamadala, Mamata
+1243:Twersky, Jack Isaac
+1244:Cutson, Toni Michele
+1245:Lyles, Kenneth Ward
+1246:Burch Jr., Warner Miller
+1247:Pietrobon, Ricardo Santos
+1248:Burnett, Bruce Kendall
+1249:Niedzwiecki, Donna
+1250:Burns, Barbara Jean
+1251:March, John S.
+1252:Wells, Karen Cameron
+1253:Burnside, A. Craig
+1254:Satterwhite, Lisa L
+1255:Wax, Adam P.
+1256:Pitt, Geoffrey Stuart
+1257:Puranam, Ram Sharma
+1258:Rosenberg, Paul Brian
+1259:Hutson, Mary Redmond
+1260:Yen, Paul Michael
+1261:Burt, Tal
+1262:Burton III, Claude Shreve
+1263:Burton, Linda
+1264:Burton, Richard M.
+1265:Mitchell, William G.
+1266:Buthe, Tim
+1267:Butler, Megan Williston
+1268:Garrett Jr., William Elwood
+1269:Butterly, David William
+1270:Tu, Priscilla
+1271:Cabeza, Roberto
+1272:Madden, David Joseph
+1273:Marsh, Elizabeth J.
+1274:Segars, William Paul
+1275:O'Daniel, Jennifer Colleen
+1276:Cui, Yunfeng
+1277:Calakos, Nicole
+1278:West, Anne Elizabeth
+1279:Wetsel, William Christopher
+1280:Calderbank, Robert
+1281:Sorin, Daniel J.
+1282:Caldwell, Bruce J.
+1283:Udayakumar, Krishnakumar
+1284:Christopher, Eric James
+1285:Wagner, Galen Strohm
+1286:Neelon, Brian Hugh
+1287:Campbell, Douglas
+1288:Campbell, Lisa
+1289:Carboni, Michael Paul
+1290:Candogan, Utku Ozan
+1291:Cant, Nell Beatty
+1292:Capel, Blanche
+1293:Greenfield, Ruth Ann
+1294:Cardenas-Corona, Maria Elena
+1295:Heitman, Joseph
+1296:Pastva, Amy Martha
+1297:Counter, Christopher M.
+1298:Gurley, Susan Bailey
+1299:Feiler, Michael Justin
+1300:Gellad, Ziad Fouad
+1301:Wolf, Andrew Ira
+1302:Cardones, Adela Rambi Guanco
+1303:Salazar Gonzales, Esther
+1304:Carlson, Alan Neil
+1305:DelMonte, Derek Wills
+1306:Carman, Margaret J
+1307:Turner, Kathleen Marie
+1308:Sabol, Valerie Kay
+1309:Carnes, Nicholas W.
+1310:Nicholls, Peter Jeff
+1311:Zhang, Xiaodong
+1312:Premont, Richard Thomas
+1313:Meck, Warren H.
+1314:Nicolelis, Miguel Angelo L.
+1315:Carter, Brigit Maria
+1316:Cary, Michael Paul
+1317:Spiridigliozzi, Gail A.
+1318:Casey, Patrick John
+1319:Moss, Jennifer Barnett
+1320:Odgers, Candice L.
+1321:Hariri, Ahmad
+1322:Cassar, Nicolas
+1323:Cassidy, Frederick
+1324:Wilson, William Herman
+1325:Cetinkaya-Rundel, Mine
+1326:Chakrabarty, Krishnendu
+1327:Choudhury, Romit Roy
+1328:Fair, Richard B.
+1329:Gonzalez, Pedro
+1330:Rao, Ponugoti Vasantha
+1331:Vann, Robin Raul
+1332:Mettu, Priyatham S
+1333:Chameides, William
+1334:Pickett, Lisa Clark
+1335:Vorderstrasse, Allison Amend
+1336:Hueckel, Remi M
+1337:Muckler, Virginia Chris
+1338:Sanders, Edward Garner
+1339:Vacchiano, Charles Andrew
+1340:Relf, Michael Vernon
+1341:Chan, Chi Wei Cliburn
+1342:West, Michael
+1343:Chandrasekharan, Shailesh
+1344:Chandrasekharan, Subhashini
+1345:Cook-Deegan, Robert M.
+1346:Chang, Albert M.
+1347:Chang, Ching-yi
+1348:McDonnell, Donald Patrick
+1349:Rathmell, Jeffrey Charles
+1350:Shinohara, Mari L.
+1351:Chen, Jun
+1352:Yoshizumi, Terry Takatoshi
+1353:Tuchman, Sascha Alexander
+1354:Chen, Dongfeng
+1355:Prasad, Vinod K.
+1356:Doan, Phuong Linh
+1357:Kurtzberg, Joanne
+1358:He, You-Wen
+1359:Li, Qi-Jing
+1360:Chappel, James Gregory
+1361:Charbonneau, Patrick
+1362:Wiley, Benjamin J.
+1363:Charles, Hal Cecil
+1364:Charney, Evan
+1365:Chartrand, Tanya L.
+1366:Shah, James
+1367:Chase, Jeffrey S.
+1368:Schmit, Kristine Marie
+1369:Chatterji, Aaron
+1370:Chaves, Mark Alan
+1371:Govert, Joseph Alan
+1372:Ofori-Amanfo, George
+1373:Chen, Chin Ho
+1374:Huang, Li
+1375:Chen, Chuan-Hua
+1376:Pavlisko, Elizabeth N
+1377:Chen, Enn-Ling
+1378:Hoffman, Brenton D.
+1379:Chen, Li Juan
+1380:Hazen, Kevin C
+1381:Chen, Meng
+1382:Chen, Nan-kuei
+1383:Song, Allen Wuming
+1384:Truong, Trong-Kha
+1385:Greeson, Jeffrey Michael
+1386:Chen, Qi
+1387:Cheng, Qing
+1388:Haystead, Timothy Arthur James
+1389:Chia, Jessica Yue-Ling
+1390:Chiang, Ambrose An-Po
+1391:Leggett, Melanie K.
+1392:Guyton, John Richard
+1393:Chilkoti, Ashutosh
+1394:Cook, J Michael
+1395:Urzhumov, Yaroslav A.
+1396:Hinton, David E.
+1397:Needham, David
+1398:Lopez, Gabriel P.
+1399:McCafferty, Dewey G.
+1400:Chilukuri, Vani Rao
+1401:Chin, Bennett B.
+1402:Vaidyanathan, Ganesan
+1403:White, Leonard Edward
+1404:Worni, Mathias
+1405:Sporn, Thomas Arthur
+1406:Chitneni, Satish K.
+1407:Cho, Alex Han
+1408:Haga, Susanne B.
+1409:Joy, Scott Victor
+1410:Garman, Katherine Schuver
+1411:DeRuyter, Frank
+1412:Chow, Rey
+1413:Jung, Sin-Ho
+1414:Mangum, Oscar Barry
+1415:Noveck, Robert Joseph
+1416:Chrisman, Allan Krekeler
+1417:Sapyta, Jeffrey J.
+1418:Dew, Rachel E
+1419:Crawford, Jeffrey
+1420:Stevenson, Marvaretta Miesha
+1421:Wahidi, Momen Mohammed
+1422:Christensen, Norman L.
+1423:Edwards, Pamela Ballance
+1424:Chudgar, Saumil Mahendra
+1425:Chung, Richard Joonoh
+1426:Maslow, Gary Ross
+1427:Churchill, Steven E.
+1428:Mirotsou, Maria
+1429:Cianciolo, George James
+1430:Ciofani, Maria
+1431:Willis, John H.
+1432:Vilgalys, Rytas J.
+1433:Domec, Jean  Christophe
+1434:Mantyh, Christopher Ritchie
+1435:Freedman, Jennifer
+1436:Shortell, Cynthia Keene
+1437:Migaly, John
+1438:Ferranti, Jeffrey Michael
+1439:Clemen, Robert T.
+1440:Clements III, Dennis Alfred
+1441:Neelon, Sara Elizabeth
+1442:Clotfelter, Charles T.
+1443:Ladd, Helen F.
+1444:Muschkin, Clara G.
+1445:Serafini, Sandra
+1446:Cocks, F. Hadley
+1447:Simmons, Walter Neal
+1448:Lipkin, Michael Eric
+1449:Preminger, Glenn Michael
+1450:Zhong, Pei
+1451:Coers, Jorn
+1452:Valdivia, Raphael H.
+1453:Van Mater, Heather Ann
+1454:Hargett III, Charles William
+1455:Kraft, Bryan David
+1456:Fisher, Deborah Anne
+1457:Coffman, Thomas Myron
+1458:Lehrich, Ruediger Wilhelm
+1459:Spurney, Robert Frank
+1460:Coggins, Brian Edward
+1461:Zhou, Pei
+1462:Hastings, Susan Nicole
+1463:Johnson, Kimberly Sherell
+1464:Cousins, Scott William
+1465:Whitaker, Diane Beasley
+1466:Rao, Arati Vasanth
+1467:Robins, Clive Justin
+1468:Coleman, Doriane Lambelet
+1469:Rosoff, Philip Martin
+1470:Coleman, Wilbur John
+1471:Collins, Timothy Alan
+1472:Huh, Billy Keon
+1473:Weber, Thomas Joseph
+1474:Weber, Thomas Joseph
+1475:Lee, Richard Hsang-Young
+1476:Colsher, James George
+1477:Colton, Carol Anne
+1478:Comer, Denise K.
+1479:Compton, Jill Serafin
+1480:Compton, Scott Nathan
+1481:Conitzer, Vincent
+1482:Taylor, Curtis R.
+1483:Conrad, Robert F.
+1484:Cook, Jonathan Lambert
+1485:Cook, Philip J.
+1486:Cook, Sarah
+1487:Cooper, Harris M.
+1488:Copeland, Joyce A.
+1489:Halstater, Brian Hugh
+1490:Martinez-Bianchi, Viviana Sandra
+1491:Michener, James Lloyd
+1492:Sheline, Barbara LaTowsky
+1493:Tran, Anh Nhat
+1494:Weigle, Nancy Jean
+1495:Hull, Sharon Kay
+1496:Kaprielian, Victoria Susan
+1497:Koo, Denise Tze-wen
+1498:Tilson, Hugh Hanna
+1499:Corless, Joseph M.
+1500:Costanzo, Philip R.
+1501:Grimes, Christina
+1502:Putallaz, Martha
+1503:Sloan, Frank A.
+1504:Cothran Jr., Roger Lee
+1505:Gustafson, Kathryn E.
+1506:Crouchley, Jillian Leigh
+1507:Foreman, John William
+1508:Thiele, Dennis James
+1509:MacAlpine, David Michael
+1510:Hahn, Paul
+1511:Lad, Eleonora Georgeta
+1512:Malek, Goldis
+1513:Moretti, Eugene William
+1514:Holland, David Preston
+1515:Naggie, Susanna
+1516:Cox, Landon P.
+1517:Cox, Mitchell Wayne
+1518:Mureebe, Leila
+1519:Song, Haijun
+1520:Joines, William T.
+1521:Maccarini, Paolo F
+1522:Craig, Anna Elizabeth
+1523:Crawford, Gregory E.
+1524:Reddy, Timothy E
+1525:Willard, Huntington Faxon
+1526:Gersbach, Charles
+1527:Hartemink, Alexander J.
+1528:Salama, Joseph Kamel
+1529:Wang, Xiaofei
+1530:Crawford, Regina Denise
+1531:Feliu, Miriam Helen
+1532:Middleton, John Paul
+1533:Hong, Jiyong
+1534:Fitzgerald, Michael C.
+1535:Cullen, Bryan Richard
+1536:Luftig, Micah Alan
+1537:Cummer, Steven A.
+1538:Cummings, Jonathon
+1539:Foo, Wen Chi
+1540:Proia, Alan David
+1541:Woodward, Julie Ann
+1542:Muh, Carrie Rebecca
+1543:Cunningham III, Calhoun Dove
+1544:Cunningham, Clifford W.
+1545:Van Dover, Cindy
+1546:Terborgh, John W.
+1547:Curlin, Farr A
+1548:Mauro, Christian F.
+1549:Curtarolo, Stefano
+1550:Scales Jr., Charles Douglas
+1551:Wiener, John Samuel
+1552:Peterson, Andrew Charles
+1553:Ellestad, Sarah Catherine
+1554:Daley, Brendan
+1555:Dalvi, Samir R
+1556:Meltzer, Eric Barrie
+1557:Wolfe, Walter George
+1558:Darcey, Dennis J.
+1559:Darity Jr., William A.
+1560:Langdon, Scott Douglas
+1561:Dash, Rajesh Chandra
+1562:Friedman, Daphne Ruth
+1563:Weinberg, Joe Brice
+1564:Stoecker, Maggie Marie
+1565:LU, JIANFENG
+1566:Daubert, Melissa Anne
+1567:Lugar, Patricia Lynne
+1568:Shofer, Scott Leigh
+1569:Davis, Linda Lindsey
+1570:Davis, Naomi O.
+1571:Dawson, Hana Nenicka
+1572:Kolls, Bradley Jason
+1573:De Bellis, Michael Damingo
+1574:Gallentine, William Brian
+1575:Mikati, Mohamad Abdul
+1576:Rothman, Jennifer Ann
+1577:Zennadi, Rahima
+1578:Tanabe, Paula J
+1579:De Gagne, Jennie
+1580:Deak, Kristen Lee
+1581:Horn, Sarah Rapisardo
+1582:Dear, Keith Brian Gordon
+1583:DeFrantz, Thomas
+1584:DeFrate, Louis Edwin
+1585:Spritzer, Charles Edward
+1586:Taylor, Dean Curtis
+1587:Little, Dianne
+1588:Lee, Jaewoo
+1589:DeLong, Elizabeth Ray
+1590:Dement, John McCray
+1591:Epling, Carol Ann
+1592:Lipscomb, Hester Johnstone
+1593:Myers, Douglas Joseph
+1594:Schoenfisch, Ashley Land
+1595:Denardo, Scott Jeffrey
+1596:Tcheng, James Enlou
+1597:Rodrigo, Allen G
+1598:Derbyshire, Emily Rose
+1599:Derouin, Anne Lynn
+1600:Desai, Preyas S.
+1601:Purohit, Devavrat
+1602:Deshusses, Marc
+1603:Hochman, Daryl William
+1604:Shan, Siqing
+1605:Vollmer, Robin Tutt
+1606:Li, Chuan-Yuan
+1607:Kornbluth, Sally A.
+1608:Stapleton, Heather M.
+1609:Rittschof, Daniel
+1610:DiBernardo, Louis Robert
+1611:Manson, Roberto Jose
+1612:Provenzale, Dawn Tranchino
+1613:Petes, Thomas Douglas
+1614:Dikolli, Shane S.
+1615:Mayew, William J.
+1616:Dobbins III, James T.
+1617:Ravin, Carl Eric
+1618:Nolte, Loren W.
+1619:Godfrey, Devon James
+1620:Lansford, Jennifer
+1621:Dolbow, John Everett
+1622:Laursen, Tod A.
+1623:Wolever, Ruth Quillian
+1624:Dombrowski, Keith
+1625:Donahue, Mark Paul
+1626:Richardson, David C.
+1627:Richardson, Jane Shelby
+1628:Mooney, Richard Daniel
+1629:Dong, Xinnian
+1630:Donohue, Kathleen
+1631:Doolette, David John
+1632:Dorfman, Ariel
+1633:Simel, David Lee
+1634:Khouri, Michel Georges
+1635:Dowell, Earl H.
+1636:Mann, Brian
+1637:Thomas, Jeffrey P.
+1638:Hall, Kenneth C.
+1639:Dressman, Holly Kloos
+1640:Koh, James
+1641:Page-Chartrand, Kristin Marie
+1642:Mahmood, Kamran
+1643:Tokdar, Surya
+1644:George, Linda K.
+1645:Vaupel, James Walton
+1646:Durrett, Richard Timothy
+1647:Socolar, Joshua
+1648:Dvergsten, Jeffrey Arthur
+1649:Dwyer, Christopher
+1650:Lebeck, Alvin R.
+1651:Dyreng, Scott D.
+1652:Merson, Michael H.
+1653:Zhang, Zhiping
+1654:Vinson, Emily Nicole
+1655:Leithe, Linda Gray
+1656:Echols, Melvin Ray
+1657:Edwards, Glenn Steven
+1658:Kiehart, Daniel P.
+1659:Egner, Tobias
+1660:Schmajuk, Nestor A.
+1661:Heller, Katherine
+1662:Peterchev, Angel Vladimirov
+1663:Sommer, Marc A.
+1664:Eisbach, Shelly Sue
+1665:Miller, Timothy Ellis
+1666:Eisner, Martin
+1667:El Husseini, Nada Kais
+1668:Goldstein, Larry Bruce
+1669:Elbert-Avila, Katja Ingrid
+1670:Jones, Christopher
+1671:Kuo, Anthony Nanlin
+1672:Endow, Sharyn Anne
+1673:Engelhardt, Barbara
+1674:Gordan, Raluca Mihaela
+1675:Sopko, David Richard
+1676:Zenn, Michael Robert
+1677:Leversedge, Fraser
+1678:Ruch, David Simms
+1679:Osawa, Masaki
+1680:Goldston, David Brian
+1681:Schramm-Sapyta, Nicole Lewellyn
+1682:Suarez, Edward Charles
+1683:Tucci, Debara Lyn
+1684:Woodard, Charles
+1685:Freiberger, John Jacob
+1686:Etkin, Jordan F
+1687:Eucker, Stephanie Ann
+1688:Everett, Christine M
+1689:Farkas, Linda
+1690:Schuman, Stefanie Gail
+1691:Maradiaga Panayotti, Gabriela Muriel
+1692:Jaffe, Glenn Jay
+1693:Setji, Tracy Lynn
+1694:Fekrat, Sharon
+1695:Postel, Eric Attila
+1696:Feld, Jody Ann
+1697:Grotegut, Chad Aaron
+1698:Leppert, Phyllis Carolyn
+1699:Ferguson, P. Lee
+1700:Seidler, Frederic J.
+1701:Slotkin, Theodore Alan
+1702:Ferrandino, Michael Nicolo
+1703:Rampersaud Jr., Edward N
+1704:McKellar, Mehri Sadri
+1705:Pickup, David James
+1706:Frothingham, Richard
+1707:Ferrari, Silvia
+1708:Henriquez, Craig S.
+1709:VanDongen, Antonius M. J.
+1710:Ferreira, Paulo Alexandre
+1711:Field, Erica Marie
+1712:Filomena, Carol Ann
+1713:Fischer, Bernard Martin
+1714:Sunday, Mary Elizabeth Anne
+1715:Walker, Julia K.L.
+1716:Greenberg, Joel Alter
+1717:Fish, Laura Jane
+1718:Garst, Jennifer Lynn
+1719:Kelley, Michael John
+1720:Haque, Mahfuzul
+1721:Kay, Aaron Charles
+1722:Flanagan Jr., Owen
+1723:Kertai, Miklos David
+1724:Ibarra Drendall, Catherine
+1725:Stouder, April Loehmer
+1726:Gbadegesin, Rasheed Adebayo
+1727:Rabinovich, Consuelo Egla Diana
+1728:Forman, Leslie M.
+1729:Forte, Maurizio
+1730:Forward, Richard B.
+1731:Foster, Mary Helen
+1732:Que, Loretta Georgina
+1733:Zhou, Shutang
+1734:Fox, Donald T
+1735:Francis, Jennifer
+1736:Olsson, Per
+1737:Schipper, Katherine
+1738:Frank, Michael M.
+1739:Jiang, Haixiang
+1740:Frankenberg, Elizabeth
+1741:Thomas, Duncan
+1742:Frank-Ito, Dennis Onyeka
+1743:Franks, Kevin Michael
+1744:Franz, Katherine J.
+1745:Fras, Anne Marie
+1746:Leary, Mark Richard
+1747:Fraser, Matthew Oliver
+1748:Frederick, Heather Jane
+1749:Taekman, Jeffrey Marc
+1750:Routh, Jonathan Charles
+1751:Freedman, Neil Jonathan
+1752:Zhang, Lisheng
+1753:Vigna, Steven R.
+1754:McGraw, Thomas Anthony
+1755:Stolp, Bryant Walter
+1756:Schneider, Susan Moeller
+1757:Lee, Sunhee
+1758:Fry, Brendan C
+1759:Zucker, Nancy Lee
+1760:Fulkerson, Mary M.
+1761:Furtado, Gustavo PT
+1762:Gaede, Jane Taylor
+1763:McConkie-Rosell, Allyn
+1764:McDonald, Marie Theresa
+1765:Gaillard, Stephanie L
+1766:Kansagra, Sujay Mansukhlal
+1767:Lewis Jr., Darrell Vincent
+1768:McNamara Sr., James O'Connell
+1769:Sinha, Saurabh Ranjan
+1770:Klein, Stephen Matthew
+1771:Melton, M. Stephen
+1772:MacLeod, David Brett
+1773:Tucker, Marcy Schwartz
+1774:Nielsen, Karen Cristina
+1775:Gandhi, Parag D
+1776:Gao, Haiyan
+1777:Liu, Jian-Guo
+1778:Howell, Calvin R.
+1779:Hardaker Jr., William Thomas
+1780:Garrigues, Grant Edward
+1781:Venakides, Stephanos
+1782:Gavin, Henri P.
+1783:Reiter, Jerome P.
+1784:Muir, Andrew Joseph
+1785:George, Stephen L.
+1786:McEvoy, Joseph Patrick
+1787:Roggli, Victor Louis
+1788:Ossmann, Eric William
+1789:Gereffi, Gary
+1790:Gervais, Simon
+1791:Gesty-Palmer, Diane
+1792:Getz, Jayce Robert
+1793:Gheith, Jehanne
+1794:Ginsberg, Brian
+1795:Simmons, Leigh Ann
+1796:Glander, Kenneth Earl
+1797:Taylor, Andrea Beth
+1798:Glass, Jeffrey
+1799:Goknar, Erdag
+1800:Gold, Deborah T.
+1801:Goldberg, Joel Steven
+1802:Golden, Jay
+1803:Goldner, Richard Douglas
+1804:Todd, Jamie Lynn
+1805:He, Xiao-Ping
+1806:Silver, Debra Lynn
+1807:Yuan, Fan
+1808:Reiman, Michael Patrick
+1809:Gordon, David Charles
+1810:Murray, Brian
+1811:Grabowski, Henry G.
+1812:Graham, John R.
+1813:Harvey, Campbell R.
+1814:Puri, Manju
+1815:Grandl, Jorg
+1816:Granek, Joshua Aaron
+1817:Magwene, Paul Mitaari
+1818:Mills, James Steven
+1819:Grant, Augustus Oliver
+1820:Gray, Alice Lee
+1821:Green, Deanna Mae
+1822:Greenberg, Arthur
+1823:Greenblatt, Lawrence Howard
+1824:Zipkin, Daniella Ann
+1825:Greene, Nathaniel Howard
+1826:Greenfield Jr., Joseph Cholmondeley
+1827:Greenleaf, Arno Lee
+1828:Greenup, Rachel Adams
+1829:Mackey, Aimee Marlena
+1830:Lausier, Evangeline R.
+1831:Smoski, Moria Joy
+1832:Nilsson Jr., Kent Ronald
+1833:Groh, Jennifer M.
+1834:Merwin, Rhonda M
+1835:Roy, Lance Atlas
+1836:Hsieh, Tao-shih
+1837:Lee, Seok-Yong
+1838:Liedtke, Wolfgang Bernhard
+1839:Wang, Fan
+1840:Lo, Donald Ching-Tze
+1841:Yu, Yen-Rei Andrea
+1842:Guo, Hongtao
+1843:Gustafson, Michael
+1844:Huettel, Lisa Gresham
+1845:Nadeau, Joseph C.
+1846:Schaad, David E.
+1847:Rowell, Jennifer Voigt
+1848:Gwyther, Lisa Pepper
+1849:Haase, Steven B.
+1850:Olufolabi, Adeyemi John
+1851:Hadjioannou, Markos
+1852:Haff, Peter K.
+1853:Hahn, Carol Anne
+1854:Hain, Richard
+1855:Richter, Daniel D.
+1856:Vandenberg, John
+1857:Zhang, Yunyan
+1858:Hall, Bruce S.
+1859:Hall, William Charles
+1860:Hallows, Rhett Kendall
+1861:Halpin, Patrick N.
+1862:Johnston, David William
+1863:Nowacek, Douglas
+1864:Urban, Dean L.
+1865:Hammer, Gianna
+1866:Hammond, Timothy Grant
+1867:Hamoudi, Amar
+1868:Jeuland, Marc A.
+1869:Pattanayak, Subhrendu K.
+1870:Hargrove, Amanda Elaine
+1871:Hash II, Thomas Walter
+1872:Ragsdale, Luna Chen
+1873:Knaack, William R.
+1874:Hays, Judith C.
+1875:Haystead, Clare Mhairi
+1876:Wang, Honggang
+1877:Racioppi, Luigi
+1878:Liton, Paloma Borrajo
+1879:Heffernan, James Brendan
+1880:Wang, Xiao-Fan
+1881:Hench, James
+1882:Henderson, Heather Tripp
+1883:Matters, Loretta Mary
+1884:Lombardi, Marilyn May
+1885:Williams, Christina L.
+1886:Hertzberg, Barbara Spector
+1887:Hickey, Patrick Thomas
+1888:Stacy, Mark Allen
+1889:Hillygus, Dione Sunshine
+1890:Hilton, Andrew Douglas
+1891:HILTON, MATTHEW JAMES
+1892:Sosa, Julie Ann
+1893:Hobson-Webb, Lisa Deneen
+1894:Juel, Vern Charles
+1895:Mhoon, Justin
+1896:Massey, Janice Munn
+1897:Sanders, Donald Benjamin
+1898:Hochgeschwender, Ute
+1899:Jarvis, Erich David
+1900:Hockenberry, Marilyn J
+1901:Rodgers, Cheryl C
+1902:Hohmeier, Hans-Ewald
+1903:Moss, Larry Gene
+1904:Knobel, Robin Britt
+1905:Ingram, Jennifer Leigh
+1906:Wang, Ying
+1907:Hoover, Kevin Douglas
+1908:Hotz, Nico
+1909:Howard, Brandon Augustus
+1910:Reid, Chantal D.
+1911:Hsieh, David A.
+1912:Schwartz-Bloom, Rochelle Denenberg
+1913:Huang, Andrew T.
+1914:Huang, Erich Senin
+1915:Zhu, Jiangao
+1916:Moorman, Christine
+1917:Hueckel, Tomasz
+1918:Kranton, Rachel
+1919:Hull, Court Alan
+1920:Johnson, Zackary
+1921:Hutter, Reinhard
+1922:Wu, Bei
+1923:Hyslop, Theresa Marie
+1924:Idriss, Salim Farouk
+1925:Neu, Wanda Krassowska
+1926:Yashin, Anatoli I.
+1927:Pratson, Lincoln F.
+1928:Porporato, Amilcare
+1929:Newell, Richard G.
+1930:Plata, Desiree Louise
+1931:Jaimovich, Nir
+1932:James, Tamara M.
+1933:Jang, David W
+1934:Jaquiss, Robert
+1935:Jenson, Deborah
+1936:Jentleson, Bruce W.
+1937:Weinthal, Erika S.
+1938:Ji, Ru-Rong
+1939:Xu, Zhenzhong
+1940:Tracey Jr., William Daniel
+1941:Johnsen, Sonke
+1942:Sullivan, Dori Taylor
+1943:Lyn, Michelle Jacqueline
+1944:Payne, Richard
+1945:Johnson, Tana L.
+1946:Johnson, Timothy Lawrence
+1947:Patino-Echeverri, Dalia
+1948:Johnston, Christopher David
+1949:Liu, Qing Huo
+1950:Jordt, Sven Eric
+1951:Liu, Boyi
+1952:Joseph, John
+1953:Joshi, Anand B.
+1954:Juvvadi, Praveen Rao
+1955:Kamei, Robert Ken
+1956:Kravitz, Richard Mark
+1957:Kasibhatla, Prasad S.
+1958:Kastan, Michael Barry
+1959:Matsunami, Hiroaki
+1960:Katsouleas, Thomas
+1961:Khlystov, Andrey
+1962:Kumar, Mukesh
+1963:Katz, David F.
+1964:Kaul, Mala Shaykher
+1965:Kay, Jeremy N.
+1966:Kay, Richard Frederick
+1967:Raynor, Eileen Margolies
+1968:Kearney, Hutton Moore
+1969:Keenan, Robert Thomas
+1970:Keene, Jack Donald
+1971:Keeney, Ralph L.
+1972:Nau, Robert F.
+1973:Kelley, Judith
+1974:Kim, Grace Jewel
+1975:Kim, Hwansoo
+1976:Kim, So Young
+1977:Kimbrough, Kent P.
+1978:Kirk, Robin
+1979:Kitschelt, Herbert P.
+1980:Klein, Emily M.
+1981:Klingensmith, John Archbold
+1982:Klotman, Mary E
+1983:Knio, Omar Mohamad
+1984:Ko, Dennis
+1985:Tobin, David Maurice
+1986:Koelle, Katharina V.
+1987:Mattingly, Jonathan Christopher
+1988:Reed, Michael C.
+1989:Whetten, Kathryn
+1990:Kohrt, Brandon A.
+1991:Walther, Philip John
+1992:Washington, Edith Lacey
+1993:Kramer, Randall
+1994:Krangel, Michael S.
+1995:Kreissman, Susan Gail
+1996:Kreuzer, Kenneth N.
+1997:Krishna, Anirudh
+1998:Krolik, Jeffrey L.
+1999:Rose, Jed Eugene
+2000:Zhang, Wei
+2001:Yoder, Anne Daphne
+2002:Lisanby, Sarah Hollingsworth
+2003:McClintock, Shawn Michael
+2004:Kucera, Kristen Leigh
+2005:Kuehn, Margarethe Joanna
+2006:Roberts, Craig D
+2007:Simon, Sidney Arthur
+2008:Stangl, Dalene K.
+2009:Kulchina, Elena
+2010:Rhee, Eleanor Hoon Joo
+2011:Price, Thomas Michael
+2012:Kumar, Amy Shah
+2013:Walsh, Molly McCarthy
+2014:Kuran, Timur
+2015:Pizoli, Carolyn Elizabeth
+2016:Sun, Jessica Muller
+2017:Worley, Gordon
+2018:Lachiewicz, Ave Maria
+2019:Lambe, Camille Eckerd
+2020:Lampel, Heather Pamela
+2021:Land, Kenneth C.
+2022:Stallard, Patrick J. Eric
+2023:Landry, Michel Daniel
+2024:Lantos, Paul Michael
+2025:Larrick, Richard P.
+2026:Wade-Benzoni, Kimberly A.
+2027:Soll, Jack B.
+2028:Pendergast, Ann Marie
+2029:Layton, Harold
+2030:Lew, Daniel Julio
+2031:Moss, Robert Graeme
+2032:Le, Ngoc-Bich
+2033:Lechler, Terry H.
+2034:Soderling, Scott Haydn
+2035:Lee, Benjamin C
+2036:Lee, Linda S.
+2037:Lee, Tong Hyon
+2038:Peindl, Kathleen S.
+2039:Wiener, Dana Nowicki
+2040:LeGrand, Sara H.
+2041:Pence, Brian Wells
+2042:McAllaster, Carolyn
+2043:Leight Jr., George Staples
+2044:Lentz, Aaron Claude
+2045:Lesesky, Erin Bialas
+2046:Mithani, Suhail Kamrudin
+2047:Linney, Elwood Albert
+2048:Rosenthal, Mark Zachary
+2049:Maggioni, Mauro
+2050:Westman, Eric Charles
+2051:Lewin, Arie Y.
+2052:Li, Fang
+2053:Li, Fan
+2054:Li, Jia
+2055:Zhang, Weiguo
+2056:Zhu, Minghua
+2057:Zhuang, Yuan
+2058:Lieber, Laura Suzanne
+2059:Lind, E. Allan
+2060:Perz Edwards, Alyssa
+2061:Luber, Bruce M.
+2062:Lisberger, Stephen Gates
+2063:Lischer, Richard
+2064:Liss, Jason Aaron
+2065:Litvintseva, Anastasia P.
+2066:Livingston, Elizabeth Gresham
+2067:Turi, Jennifer Lilly
+2068:Lombard, Frederick Wilhelm
+2069:Longino, Michele
+2070:Yellen, Benjamin
+2071:Lopomo, Giuseppe
+2072:Marx, Leslie M.
+2073:Sun, Peng
+2074:McAdams, David
+2075:Lozier, M. Susan
+2076:Ma, Li
+2077:Machanavajjhala, Ashwinkumar Venkatanaga
+2078:MacIver, Nancie Jo
+2079:MacPhail, Richard
+2080:Price, Marva L. Mizell
+2081:Robinson, Grant Alan
+2082:Maggs, Bruce
+2083:Maguire, Lynn A.
+2084:Makhulu, Anne-Maria B.
+2085:Malcolmson, Steven Joseph
+2086:MALESKY, EDMUND James
+2087:Malkin, Robert A.
+2088:Tharwani, Haresh M.
+2089:Mann-Wrobel, Monica C.
+2090:Manos, Paul S.
+2091:Ota, David Masao
+2092:Marcus, Jeffrey Robert
+2093:Rubin, Geoffrey D
+2094:Marshall, David Evelyn
+2095:Martinez, Salutario
+2096:Maselko, Joanna Asia
+2097:Mason, Robert M.
+2098:Massey, Edward Wayne
+2099:Matchar, David Bruce
+2100:Mathey-Prevot, Bernard
+2101:Maurel, Arnaud Pierre
+2102:Mayer, Frederick W.
+2103:Venkatachalam, Mohan
+2104:Maziarz, Eileen
+2105:Mazuka, Reiko
+2106:McCarthy, Jeanette Just
+2107:McClay Jr., David R.
+2108:McCusker, John Henry
+2109:McDevitt, Ryan Carty
+2110:Norris, John David
+2111:McGlynn, Brian
+2112:McGuinness, Gail Ann
+2113:St. Geme III, Joseph William
+2114:Stockman III, James Anthony
+2115:McIntosh, Thomas James
+2116:McLean, Heather Seabury
+2117:Pan, Enhui
+2118:McWilliam, Neil Finlay
+2119:Meade, Kristin
+2120:Medina, Miguel A.
+2121:Mehen, Thomas C.
+2122:Springer, Roxanne P.
+2123:Mela, Carl Frederick
+2124:Meliones, Jon Nicolaos
+2125:Merli, M. Giovanna
+2126:Morgan, S. Philip
+2127:Moody, James
+2128:Merwin, Elizabeth
+2129:Metjian, Ara Dickran
+2130:Metjian, Hilda Morillas
+2131:Meyer, William Steven
+2132:Mignolo, Walter
+2133:Mikkelsen, Maiken
+2134:Miller, Ezra
+2135:Misra, Uma Kant
+2136:Mitchell, Thomas Greenfield
+2137:Rausher, Mark D.
+2138:Mohanan, Manoj
+2139:Nowicki, Stephen
+2140:Moosa, Ebrahim E.I.
+2141:Moreton, Patrick Shamus
+2142:Seigler, Hilliard Foster
+2143:Moskovitz, Cary
+2144:Valiga, Theresa Mary
+2145:Wood, Kathryn Alice
+2146:Mottahedeh, Negar
+2147:MUASHER, LISA COATES
+2148:Muasher, Suheil Jamil
+2149:Raburn, Douglas Joe
+2150:Mukhin, Alexey Gennadyevich
+2151:Munger, Michael C.
+2152:Murdoch, David Martin
+2153:Murphy, Thomas Miles
+2154:Murray, Allen Bradshaw
+2155:Murray, Maureen Elizabeth
+2156:Musalem, Andres
+2157:Musser, Robert Clayton
+2158:Nadler, J. Victor
+2159:Neal, Katherine Nicole
+2160:O'Meara, Wendy P
+2161:Nevidjon, Brenda Marion
+2162:Pizer, Billy
+2163:Summers, Scott Andrew
+2164:Ng, Lenhard Lee
+2165:Nijhout, H. Frederik
+2166:Nolen, James H.
+2167:Noonan, Devon
+2168:Noor, Juliet
+2169:Noor, Mohamed A. F.
+2170:Norberg, Jakob
+2171:Norton II, John Norman
+2172:Olson, Ronald Paul
+2173:Park, Chan Woo
+2174:O'Neill, Lynn Bunch
+2175:Ong, Sin Tiong
+2176:Onken, Jane Elizabeth
+2177:Onwuemene, Oluwatoyosi Adefunke
+2178:O'Rand, Angela M.
+2179:Orbach, Michael K.
+2180:Paat, John Joseph
+2181:Reynolds, John Michael
+2182:Pan, Wei
+2183:Pan, William Kuang-Yao
+2184:Panigrahi, Debmalya
+2185:Parkerson Jr., George R.
+2186:Patel, Bhavik Natvar
+2187:Patierno, Steven
+2188:Patton, Andrew J.
+2189:Sullivan, Daniel Carl
+2190:Pearson, Jay A.
+2191:Pei, Zhen-Ming
+2192:Peirce, J. Jeffrey
+2193:Pekec, Aleksandar
+2194:Pena, Loren del Mar
+2195:Peretto, Pietro F.
+2196:Toffaletti, Dena L.
+2197:Perkins, Jennifer Marie
+2198:Perlman, Adam I
+2199:Perz-Edwards, Robert
+2200:Reedy, Michael K.
+2201:Peterson, Cecily Karen
+2202:Robertson, Sue Jinks
+2203:Petroski, Henry
+2204:Petters, Arlie O.
+2205:Pimm, Stuart L.
+2206:Pipkin, Clare Alexandra
+2207:Pitts Jr., Monte Bryan
+2208:Sudan, Ranjan
+2209:Portier-Young, Anathea
+2210:Poss, Kenneth Daniel
+2211:Poulsen, John Randolph
+2212:Powers, David Bryan
+2213:Powery, Luke
+2214:Schomberg, David William
+2215:Pryer, Kathleen M.
+2216:Robinson, David T.
+2217:Puri, Puja Kumari
+2218:Purves, Dale
+2219:Quilligan, Maureen
+2220:Rabiner, David
+2221:Raghavachari, Sridhar
+2222:Raghunathan, Karthik
+2223:Rampini, Adriano A.
+2224:Viswanathan, S.
+2225:Ray, Tracy Reece
+2226:Reeves, Galen
+2227:Reeves, Martha
+2228:Reif, John H.
+2229:Reinhardt, Richard Lee
+2230:Reuter Rice, Karin Eve
+2231:Reynolds, James F.
+2232:Reynolds, Julie
+2233:Thompson Jr., Robert J
+2234:Ross, Allison Kinder
+2235:Riggsbee, Jan
+2236:Wynn, Susan
+2237:Roberts, James W.
+2238:Robertson, Allison Gilbert
+2239:Rodger, Susan H.
+2240:Roizen, Jennifer Lyn
+2241:Roos, Justus Erasmus
+2242:Stiber, Jonathan Andrew
+2243:Rosette, Ashleigh Shelby
+2244:Ross, Elizabeth Fromm
+2245:Roth, Christopher John
+2246:Roth, Susan
+2247:Roth, Virginia Louise
+2248:Smith, Kathleen Kovalevski
+2249:Rowe, C. Kavin
+2250:Roy, Christopher P.
+2251:Rubio-Ramirez, Juan F.
+2252:Ruppert, Phillip D.
+2253:Rydin-Gray, Sofia
+2254:Ryser, Marc Daniel
+2255:Saban, Daniel Raphael
+2256:Sadowski, Philipp
+2257:Sanders, Seth G.
+2258:Sanoff, Scott L
+2259:Schmid, Amy K.
+2260:Schmid, Lukas M.
+2261:Schoen, Chadmark L.
+2262:Scholberg, Kate
+2263:Walter, Christopher
+2264:Schultz, Thomas Fred
+2265:Schwendimann, Rene
+2266:Scovazzi, Guglielmo
+2267:Seaman, William
+2268:Shah, Purnima
+2269:Shang, Kevin H.
+2270:Shapiro - Garza, Elizabeth
+2271:Sharma, Poonam
+2272:Sharp, Jack Kevin
+2273:Shaw, A. Jonathan
+2274:Sheets, Charles Z
+2275:Shenolikar, Shirish
+2276:Sherrier, Robert Henry
+2277:Sherwood, Nina Tang
+2278:Sidhu, Kulbir
+2279:Siedow, James N.
+2280:Siegel, David Aaron
+2281:Silliman, Brian Reed
+2282:Silverblatt, Irene
+2283:Sinnott-Armstrong, Walter
+2284:Sitkin, Sim B.
+2285:Smith, Barbara H.
+2286:Snyderman, Ralph
+2287:So, Anthony
+2288:Sobolewski, Craig Joseph
+2289:Somjen, George G.
+2290:Voyvodic, James Turner
+2291:Song, Jing-Sheng
+2292:Zipkin, Paul H.
+2293:Sosin, Joshua D.
+2294:Spector, Andrew
+2295:Stallings, Amy Polen
+2296:Starmer, Charles F.
+2297:Steinberg, David Marc
+2298:Stephens, Kristen R.
+2299:Stern, Mark A.
+2300:Stiff-Roberts, Adrienne
+2301:Sullivan, Beth Ann
+2302:Sun, Tai-ping
+2303:Sun, Xiaobai
+2304:Swinney, Robert P
+2305:Tang, Shenglan
+2306:Tatum, Gregory Howard
+2307:Yildirim, Huseyin
+2308:Taylor, Steve M
+2309:Teitsworth, Stephen W.
+2310:Tesson Jr., Alan Ray
+2311:Thomann, Wayne R.
+2312:Thomas, Cathy Wall
+2313:Thomas, John E.
+2314:Thorne, Susan
+2315:Tiryakian, Edward A.
+2316:Toffaletti, John Griffith
+2317:Toniolo, Gianni
+2318:Virshup, David Marc
+2319:Trivedi, Kishor S.
+2320:Trotter, Kathryn Jane
+2321:Turner, Elizabeth Louise
+2322:Ulshen, Martin Howard
+2323:Uyenoyama, Marcy K.
+2324:Vaisey, Stephen Bradley
+2325:Vallero, Daniel
+2326:Varas Greene, Luis Felipe
+2327:Vashishtha, Rahul
+2328:Velkey, John Matthew
+2329:Venkatasubramani, Narayanan
+2330:Vincent, Jeffrey R.
+2331:Virgin, Lawrence N.
+2332:Witelski, Thomas Peter
+2333:Vithala, Madhuri Venkata
+2334:Vogel, Steven
+2335:Volkan, Pelin Cayirlioglu
+2336:Von Ramm, Olaf T.
+2337:Waeber, Jacqueline Rebecca
+2338:Wall, Christine Elizabeth
+2339:Wang, Qiu
+2340:Wechsler, Stephanie Burns
+2341:Wei, Yehua
+2342:Wernegreen, Jennifer Jo
+2343:West, Jennifer L
+2344:Whitener, Stephanie Kay
+2345:Whitt, Irene
+2346:Whorton, Augustus Richard
+2347:Widenhoefer, Ross A.
+2348:Wigfall, Delbert Raye
+2349:Wilbourn, Makeba Parramore
+2350:Williams, Blythe A.
+2351:Wilson, Ara
+2352:Wilson, John
+2353:Wilson, William G.
+2354:Winkler, Robert L.
+2355:Wirzba, Norman
+2356:Wong, David B.
+2357:Wong, Fulton
+2358:Wood, Kris Cameron
+2359:Woodward, Julia Taylor
+2360:Wu, Yuan
+2361:Xu, Yi
+2362:Yang, Chung-Hui
+2363:Yang, Xiaowei
+2364:Yap, Tracey Lee-Ann
+2365:Yin, Henry
+2366:Yokoyama, Kenichi
+2367:York, John David
+2368:Zavlanos, Michail
+2369:Zhang, Xuefeng
+2370:Zychowicz, Michael Edward
